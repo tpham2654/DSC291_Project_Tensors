@@ -54,7 +54,7 @@ Due to the large size of this data set (multiple gigabytes), it must be download
  For convenience, the SEUSS analysis eigenvectors are provided in the data download so it is not strictly necessary to perform this step.  
 Create a folder in the [data](data) directory called "SEUSS_PCA".  
 
- The following code can be run from the "notebooks" directory to extract the eigenvectors from the SEUSS PCA plots as CSV files:
+ The following code can be run in R from the "notebooks" directory to extract the eigenvectors from the SEUSS PCA plots as CSV files:
  ```
  #Extract the SEUSS_processed_data" file from the SEUSS-Analysis github into the ../data/SEUSS_R/SEUSS_Processed_data directory
 #run this from notebooks directory
