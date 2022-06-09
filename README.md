@@ -80,6 +80,16 @@ The plots shown below are the key figures from our report, though the analysis c
 **MetaPerturbations**
 ![stem_MP_6-1-2022.png](expected_results_images/stem_MP_6-1-2022.png)
 
+### Metagenes vs PCA Cell Embeddings:
+**Endothelial/Unilineage:**
+![endothelial_metaperturbation_vs_embeddings.png](expected_results_images/meta_vs_PCA_MP/endothelial_metaperturbation_vs_embeddings.png)
+
+**Multilineage:**
+![multilineage_metaperturbation_vs_embeddings.png](expected_results_images/meta_vs_PCA_MP/multilineage_metaperturbation_vs_embeddings.png)
+
+**Pluripotent:**
+![pluripotent_metaperturbation_vs_embeddings.png](expected_results_images/meta_vs_PCA_MP/pluripotent_metaperturbation_vs_embeddings.png)
+
 ## CDX2 Effects Re-Discovered:
 MG2 correlates with embryonic morphogenesis related gene sets.
 ![endothelial_metagenes_vs_loadings.png](expected_results_images/CDX2/MG2.png)
@@ -98,15 +108,6 @@ MG2 is consistently high in all media conditions.
 **Pluripotent:**
 ![pluripotent_metagenes_vs_loadings.png](expected_results_images/meta_vs_PCA_MG/pluripotent_metagenes_vs_loadings.png)
 
-### Metagenes vs PCA Cell Embeddings:
-**Endothelial/Unilineage:**
-![endothelial_metaperturbation_vs_embeddings.png](expected_results_images/meta_vs_PCA_MP/endothelial_metaperturbation_vs_embeddings.png)
-
-**Multilineage:**
-![multilineage_metaperturbation_vs_embeddings.png](expected_results_images/meta_vs_PCA_MP/multilineage_metaperturbation_vs_embeddings.png)
-
-**Pluripotent:**
-![pluripotent_metaperturbation_vs_embeddings.png](expected_results_images/meta_vs_PCA_MP/pluripotent_metaperturbation_vs_embeddings.png)
 
 
 ## Linear Combinations:
