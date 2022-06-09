@@ -1,0 +1,2 @@
+Data directory contents can be downloaded here: https://drive.google.com/file/d/1GGaA5-4bSnxP8iaetJJM7OcJhYPRUuZ2/view?usp=sharing
+Unzip that archive into this firectory.  WARNING: Several gigabytes in size.
