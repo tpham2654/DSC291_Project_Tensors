@@ -14,6 +14,7 @@ Python packages used:
 - Matplotlib
 - Seaborn
 - Plotly
+- Statsmodels
 - Rpy2 (Rpy2 no longer works on Windows as of 6/9/2022.  The analysis was performed on a computer running Ubuntu 20.04 LTS)
 
 You will also need the R programming language as well to use Seurat to extract the SEUSS paper's SVD-based analysis intermediates and to calculate the information coefficient.  
