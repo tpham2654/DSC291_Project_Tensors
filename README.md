@@ -6,6 +6,8 @@ All analysis code is located in the notebook file in the "notebooks" folder.
 
 # Instructions:
 ## 0. Install missing packages (if needed)
+The main analysis was performed primarily in the Python programming language.  
+
 Python packages used:
 - Numpy
 - Tensorly
