@@ -30,6 +30,25 @@ Due to the large size of this data set (multiple gigabytes), it must be download
 
  ## 2. Unzip the zip file into the data directory.  
  The directory structure should look like this:
+```
+ data/
+	[metagene and metaperturbation side matrix files]
+	data/SEUSS
+		data/SEUSS/normalized_counts
+			data/SEUSS/normalized_counts/genes_to_keep
+				data/SEUSS/normalized_counts/0.75
+					[txt files of genes to keep]
+			[expression matrices filtered by gene]
+		data/SEUSS/ssGSEA
+			data/SEUSS/ssGSEA/by_metagene
+				[ssGSEA score files]
+		[full size expression matrices]
+	data/SEUSS_PCA
+		[eigenvector csv files]
+	data/SEUSS_R
+		data/SEUSS_R/SEUSS_processed_data
+			[Seurat publication SVD intermediate files]
+```
  
  ## 3. (OPTIONAL) Extract Seurat Eigenvectors from SEUSS Analysis
  For convenience, the SEUSS analysis eigenvectors are provided in the data download so it is not strictly necessary to perform this step.  
